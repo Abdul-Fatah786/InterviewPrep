@@ -51,20 +51,3 @@ See [`deployment-notes.md`](./deployment-notes.md) for step-by-step deployment i
 cd server
 npm install
 npm run dev
-
-
-### For Client:
-```bash
-cd client
-npm install
-npm start
-
-
-mern, mern-stack, javascript, nodejs, express, mongodb, jwt,
-authentication, backend, interview-preparation, rest-api, fullstack
-
-
-
----
-### Abdul Fatah
-Would you like this as a downloadable file or should I update your local repo with the full `README.md` content as well?
